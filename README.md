@@ -5,15 +5,8 @@ Repositorio Daniel Alvarez para diplomado Cloud
 Autor Francisco Daniel Alvarez Chavez
 
 Descripción de proyecto
-En el presente proyecto se reautiza el código generado a partir del primer modulo, dicho proyecot fue generado en Java. El proyecto consistia en poder ejecutar las siguientes opciones:
+Proyecto sencillo despliega una página web, en el puerto 8084
 
-GET para visualizar estados
-
-POST agregar estados
-
-PUT Actualizar estados
-
-DELETE Borrar estados
 
 Guia de despliegue
 Instrucciones para ejecución
